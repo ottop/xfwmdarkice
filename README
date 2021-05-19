@@ -1,0 +1,10 @@
+-- darkice --
+A simple dark theme for XFWM4
+
+-- Details --
+Created May 2021 by Otto Petäjä
+Based on Olivier Fourdan's <fourdan@xfce.org> Default theme for XFWM4
+Theme released under GNU GPL license.
+
+-- Installation --
+You can put the theme in ~/.themes/ for your user or /usr/share/themes globally.
