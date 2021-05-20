@@ -7,4 +7,4 @@ Based on Olivier Fourdan's <fourdan@xfce.org> Default theme for XFWM4
 Theme released under GNU GPL license.
 
 -- Installation --
-You can put the theme in ~/.themes/ for your user or /usr/share/themes globally.
+You can put the theme in ~/.themes/darkice/xfwm4 for your user or /usr/share/themes/darkice/xfwm4 globally.
